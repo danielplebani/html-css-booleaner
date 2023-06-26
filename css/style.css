@@ -6,6 +6,7 @@
 
 .the-booleaner{
     background-image:url(./img/pattern.png);
+    margin-left: 0;
 }
 
 #logo{
@@ -33,6 +34,10 @@ header>span{
     font-size: 12px;
 }
 
+body{
+    margin-left: 25px;
+}
+
 main{
     margin-top: 30px;
 }
@@ -49,6 +54,16 @@ p, table, ul{
     background-color: yellow;
 }
 
-.Highlighted-Text{
-    background-color: yellow;
+thead{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.lightblue{
+    background-color: aquamarine;
+    color: black;
+}
+
+th, td{
+    width: 33.3%;
 }
