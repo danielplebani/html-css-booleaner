@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.the-booleaner{
+    background-image:url(./img/pattern.png);
+}
+
+#logo{
+    width: 200px;
+    margin-top: 50px; 
+    margin-bottom: 10px;  
+}
+
+header > h1{
+    margin-top: 30px;
+    font-family: 'Belanosima', sans-serif;
+}
+
+#author{
+    color: aqua;
+}
+
+header > span{
+    font-family: 'Agdasima', sans-serif;
+}
